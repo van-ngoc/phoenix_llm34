@@ -1,0 +1,8 @@
+# phoenix-llm34/requirements.txt
+PyQt6>=6.5.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+pyaudio>=0.2.11
+numpy>=1.24.0
+pyperclip>=1.8.2
+python-dotenv>=1.0.0

@@ -1,0 +1,22 @@
+
+
+# 1. Virtual environment
+python3 -m venv venv2
+
+source venv2/bin/activate
+
+pip install pyqt6
+
+pip install pyaudio
+
+pip install numpy
+
+pip install requests
+
+pip install bs4
+
+python3 main.py
+
+export PHOENIX_ENV=production
+
+export PHOENIX_LOG_LEVEL=INFO
